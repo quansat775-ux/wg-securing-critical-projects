@@ -1,3 +1,7 @@
+This Working Group is Archived
+- https://github.com/ossf/tac/blob/main/process/wg-lifecycle-documents/archive/securing_critical_projects_archived_stage.md
+- https://github.com/ossf/tac/pull/596
+
 # WG Securing Critical Projects
 
 This charter describes operations as an [OSSF Technical Initiative](https://github.com/ossf/tac/blob/master/charters/).
